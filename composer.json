@@ -1,0 +1,15 @@
+{
+    "name": "mukxtarov/video-stream",
+    "description": "Video stream with PHP React",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mukxtarov",
+            "email": "mukxtarov@mail.ru"
+        }
+    ],
+    "require": {
+        "react/react": "^1.1",
+        "react/filesystem": "^0.1.2"
+    }
+}
